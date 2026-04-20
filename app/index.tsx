@@ -5,7 +5,7 @@ export default function Index() {
     <View style={styles.container}>
       <Text style={styles.text}>
         [james karl brogarolas] 
-        [IT2B]
+        [IT2A]
       </Text>
     </View>
   );
