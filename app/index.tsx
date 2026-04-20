@@ -4,7 +4,7 @@ export default function Index() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>
-        [Mack Daniel Costibolo] 
+        [james karl brogarolas] 
         [IT2B]
       </Text>
     </View>
