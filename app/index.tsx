@@ -4,8 +4,8 @@ export default function Index() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>
-        Your Full Name 
-        Year and Section
+        [Mack Daniel Costibolo] 
+        [IT2B]
       </Text>
     </View>
   );
